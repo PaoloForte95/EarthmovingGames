@@ -11,4 +11,4 @@ Link: http://editor.planning.domains/#read_session=zqBeyfmr1e
 
 Example 2: Complex Example -> 2 machines and 5 boxes. 2 different operations for moving the material: push and pull. The first machine can push the material while the second can pull it. Link: http://editor.planning.domains/#read_session=GMXCHL79wb
 
-
+Example 3: Temporal Example -> Same Scenario of Example 2 but with durative actions (actions require a certain amount of time to be performed). Link: http://editor.planning.domains/#read_session=FHKezw6QwE
